@@ -4,28 +4,30 @@
 
 ![img-0.jpeg](img-0.jpeg)
 
-Tabla de contenido
-COMPETENCIAS PROFESIONALES: ..... 2
-SUPUESTOS PRÁCTICOS: ..... 3
-MÁQUINAS VIRTUALES: ..... 4
-CONFIGURACIONES BÁSICAS: ..... 5
-CONFIGURACIONES HARDWARE: ..... 5
-CONFIGURACIONES SOFTWARE: ..... 6
-CONFIGURACIONES BÁSICAS EN WINDOWS. ..... 7
-Paso 1 Actualizar sistemas ..... 7
-Paso 2 Actualizar Guest Additions. ..... 8
-Paso 3: Prompt en color ..... 9
-Paso 4: Alias y atajos ..... 10
-CONFIGURACIONES BÁSICAS EN LINUX ..... 11
-Paso 1 Actualizar sistemas ..... 11
-Paso 2 Actualizar Guest Additions. ..... 11
-Paso 3: Prompt en color ..... 13
-Paso 4: Alias y atajos ..... 14
-Paso 5: Color de los directorios. ..... 14
-DIFICULTADES ENCONTRADAS ..... 15
-Usuario en Windows 11 ..... 15
-Pantallazo negro en Ubuntu ..... 15
-Problemas con la tortuga. ..... 16
+# Tabla de contenido
+
+- [COMPETENCIAS PROFESIONALES](#competencias-profesionales) ..... 2
+- [SUPUESTOS PRÁCTICOS](#supuestos-prácticos) ..... 3
+- [MÁQUINAS VIRTUALES](#máquinas-virtuales) ..... 4
+- [CONFIGURACIONES BÁSICAS](#configuraciones-básicas) ..... 5
+  - [CONFIGURACIONES HARDWARE](#configuraciones-hardware) ..... 5
+  - [CONFIGURACIONES SOFTWARE](#configuraciones-software) ..... 6
+- [CONFIGURACIONES BÁSICAS EN WINDOWS](#configuraciones-básicas-en-windows) ..... 7
+  - [Paso 1 Actualizar sistemas](#paso-1-actualizar-sistemas) ..... 7
+  - [Paso 2 Actualizar Guest Additions](#paso-2-actualizar-guest-additions) ..... 8
+  - [Paso 3 Prompt en color](#paso-3-prompt-en-color) ..... 9
+  - [Paso 4 Alias y atajos](#paso-4-alias-y-atajos) ..... 10
+- [CONFIGURACIONES BÁSICAS EN LINUX](#configuraciones-básicas-en-linux) ..... 11
+  - [Paso 1 Actualizar sistemas](#paso-1-actualizar-sistemas-1) ..... 11
+  - [Paso 2 Actualizar Guest Additions](#paso-2-actualizar-guest-additions-1) ..... 11
+  - [Paso 3 Prompt en color](#paso-3-prompt-en-color-1) ..... 13
+  - [Paso 4 Alias y atajos](#paso-4-alias-y-atajos-1) ..... 14
+  - [Paso 5 Color de los directorios](#paso-5-color-de-los-directorios) ..... 14
+- [DIFICULTADES ENCONTRADAS](#dificultades-encontradas) ..... 15
+  - [Usuario en Windows 11](#usuario-en-windows-11) ..... 15
+  - [Pantallazo negro en Ubuntu](#pantallazo-negro-en-ubuntu) ..... 15
+  - [Problemas con la tortuga](#problemas-con-la-tortuga) ..... 16
+
 
 # Competencias profesionales: 
 
